@@ -1,0 +1,13 @@
+Problem Statement:
+ 	The Little Lemon restaurant in Chicago, Illinois, is a family-owned Mediterranean restaurant focused on traditional recipes served with a modern twist. One of the owners of Little Lemon, Adrian, received feedback from customers who experienced issues using the mobile version of the website. They had trouble placing a delivery order and reserving a table. The mobile site was confusing and missing a lot of features, which made it difficult to accomplish these two tasks. After improving the delivery section, Adrian wants to move forward to adding the ability to reserve a table on the Little Lemon mobile site. Currently, it is not possible to reserve a table at Little Lemon, despite the homepage including a "Reserve a table" button.
+
+In this folder, there are PDF versions of each required file. Here are links for an alternative source
+
+User Persona: https://www.figma.com/file/b2vk17U1HLMn92IBxhjXtP/Persona?type=design&node-id=0%3A1&mode=design&t=5Y9AXIXlNL7cG6c3-1
+
+Journey Map: https://www.figma.com/file/qy6dnu9sy2fY8YncpSOfMH/Journey-Map?type=design&mode=design&t=5Y9AXIXlNL7cG6c3-1
+
+Wireframes: https://www.figma.com/file/rOA5MuaapX9zKdK5OfaKsb/Reserve-a-Table---Wireframes?type=design&node-id=0%3A1&mode=design&t=jmqAARraQ3TcOAQO-1
+
+Prototypes: 
+https://www.figma.com/file/FQ9jU2fXRSgzplt8nmS35u/Prototype_Coursera?type=design&node-id=0%3A1&mode=design&t=cUsZ5ez621SwQh3e-1
